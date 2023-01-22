@@ -1,0 +1,29 @@
+h3 {
+    color:blueviolet;
+    font-size: 65px;
+    font-family: 'Pacifico', cursive;
+}
+/* 
+    açıklama satırı
+*/
+p {
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+h2.bir {
+    text-align: center;
+    font-weight: 100;
+}
+h2.iki {
+    text-align: end;
+}
+h2.üç{
+    text-align:initial;
+}
+h2#bir{
+    color: darkmagenta;
+}
+h2#iki{
+    font-size: 35px;
+    color: chocolate;
+}
