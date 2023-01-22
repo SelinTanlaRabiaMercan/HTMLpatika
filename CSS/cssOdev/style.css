@@ -1,0 +1,17 @@
+h1#nav1{
+    color: deeppink; 
+    font-size: 60px;
+    text-align: center;
+}
+nav.linkler {
+    text-align: center;
+}
+h3#aciklama {
+    color: blueviolet;
+}
+h2.aciklama {
+    color: blueviolet;
+}
+article.orta {
+    text-align: center;
+}
